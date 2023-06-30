@@ -1,0 +1,506 @@
+[
+    {
+        "id": 1,
+        "date": "2014-03-20T18:00:00.000Z",
+        "title": "Berlin Mobile Quality Crew – Was geht APP in Berlin? – Vortrag von PayPal",
+        "attendees": 40
+    },
+    {
+        "id": 2,
+        "date": "2014-05-15T17:00:00.000Z",
+        "title": "Crew Viewing --> OMU aka Webinar: Best Practices in Mobile App Testing",
+        "attendees": 36
+    },
+    {
+        "id": 3,
+        "date": "2014-06-23T17:00:00.000Z",
+        "title": "Product information: Tenkod Studio sneak preview",
+        "attendees": 15
+    },
+    {
+        "id": 4,
+        "date": "2014-07-16T17:00:00.000Z",
+        "title": "Exercises: Mobile App Testing Dojos (Meetup-Sprache: English)",
+        "attendees": 16
+    },
+    {
+        "id": 5,
+        "date": "2014-10-09T17:00:00.000Z",
+        "title": "Vortrag von XING: Boost your tests with Espresso for Android (Sprache: English)",
+        "attendees": 15
+    },
+    {
+        "id": 6,
+        "date": "2015-02-04T17:00:00.000Z",
+        "title": "App zu Axel Springer - Testautomatisierung mit Calabash (Sprache: Englisch)",
+        "attendees": 40
+    },
+    {
+        "id": 7,
+        "date": "2015-03-11T18:00:00.000Z",
+        "title": "APP zu kaufDA – Building up Mobile QA from scratch & Test automation with Appium",
+        "attendees": 55
+    },
+    {
+        "id": 8,
+        "date": "2015-07-23T17:00:00.000Z",
+        "title": "APP zu Zalando – Mobile Testing Challenges @ Zalando & 6Wunderkinder",
+        "attendees": 75
+    },
+    {
+        "id": 9,
+        "date": "2015-10-21T17:00:00.000Z",
+        "title": "Adobe: Mobile Testing with Selendroid & Nokia HERE: Testing of Navigation Apps",
+        "attendees": 41
+    },
+    {
+        "id": 10,
+        "date": "2016-05-03T17:00:00.000Z",
+        "title": "Mobile App Testing at NUMBER26 and Mobile Automation Architecture at Fyber",
+        "attendees": 62
+    },
+    {
+        "id": 11,
+        "date": "2016-07-12T17:00:00.000Z",
+        "title": "Automated Mobile Testing hosted by Groupon",
+        "attendees": 75
+    },
+    {
+        "id": 12,
+        "date": "2016-09-22T17:00:00.000Z",
+        "title": "From Zero to Hero with Appium",
+        "attendees": 35
+    },
+    {
+        "id": 13,
+        "date": "2016-10-06T17:00:00.000Z",
+        "title": "From Zero to Hero with Appium: Day 2",
+        "attendees": 12
+    },
+    {
+        "id": 14,
+        "date": "2016-11-10T18:00:00.000Z",
+        "title": "From Zero to Hero with Appium: Day 3",
+        "attendees": 9
+    },
+    {
+        "id": 15,
+        "date": "2017-05-11T17:00:00.000Z",
+        "title": "Open source testing frameworks and bagels",
+        "attendees": 39
+    },
+    {
+        "id": 16,
+        "date": "2017-06-07T16:00:00.000Z",
+        "title": "EXCURSUS: Agile Games / Open Space / Pizza Night",
+        "attendees": 5
+    },
+    {
+        "id": 17,
+        "date": "2017-08-29T16:30:00.000Z",
+        "title": "Lean testing environment and prioritization at GetYourGuide",
+        "attendees": 49
+    },
+    {
+        "id": 18,
+        "date": "2017-12-05T18:00:00.000Z",
+        "title": "Architecture for Test Frameworks & Android meets Docker @ Viacom",
+        "attendees": 39
+    },
+    {
+        "id": 19,
+        "date": "2018-02-22T18:00:00.000Z",
+        "title": "Mobile Automation and Merging Quality Process @ N26",
+        "attendees": 77
+    },
+    {
+        "id": 20,
+        "date": "2019-05-23T16:00:00.000Z",
+        "title": "Continuous Testing Meetup in May @ WeWork Potsdamer Platz",
+        "attendees": 91
+    },
+    {
+        "id": 21,
+        "date": "2019-06-25T16:00:00.000Z",
+        "title": "Continuous Testing Meetup in June @ WeWork Stralauer Allee",
+        "attendees": 102
+    },
+    {
+        "id": 22,
+        "date": "2019-08-15T16:30:00.000Z",
+        "title": "Continuous Testing Meetup in August @ WeWork Stralauer Allee",
+        "attendees": 105
+    },
+    {
+        "id": 23,
+        "date": "2019-09-10T16:30:00.000Z",
+        "title": "Continuous Testing Meetup in September @ Vivy",
+        "attendees": 100
+    },
+    {
+        "id": 24,
+        "date": "2019-09-11T16:00:00.000Z",
+        "title": "Workshop - Get started with Selenium-based automated tests with OxygenHQ",
+        "attendees": 27
+    },
+    {
+        "id": 25,
+        "date": "2019-10-22T16:30:00.000Z",
+        "title": "Continuous Testing Meetup in October @ WeWork Stralauer Allee",
+        "attendees": 118
+    },
+    {
+        "id": 26,
+        "date": "2019-11-21T17:30:00.000Z",
+        "title": "Continuous Testing Meetup @ FlixBus - AI in Test Automation",
+        "attendees": 98
+    },
+    {
+        "id": 27,
+        "date": "2019-12-04T17:30:00.000Z",
+        "title": "Continuous Testing Meetup in December @ myToys",
+        "attendees": 53
+    },
+    {
+        "id": 28,
+        "date": "2020-01-21T17:30:00.000Z",
+        "title": "Continuous Testing Meetup in January @ Contentful",
+        "attendees": 122
+    },
+    {
+        "id": 29,
+        "date": "2020-02-19T17:30:00.000Z",
+        "title": "Continuous Testing Meetup in February @ BITGRIP",
+        "attendees": 66
+    },
+    {
+        "id": 30,
+        "date": "2020-03-20T13:00:00.000Z",
+        "title": "How to Work at Home and Not Go Insane - Online Meetup & Open Discussion",
+        "attendees": 56
+    },
+    {
+        "id": 31,
+        "date": "2020-03-24T09:00:00.000Z",
+        "title": "[Webinar] How to Overcome The Missing Appium Functionality with Wim Selles",
+        "attendees": 27
+    },
+    {
+        "id": 32,
+        "date": "2020-03-27T13:00:00.000Z",
+        "title": "Critical Thinking in Testing and in Life - Online Meetup & Open Discussion",
+        "attendees": 46
+    },
+    {
+        "id": 33,
+        "date": "2020-04-09T12:00:00.000Z",
+        "title": "How We Automated Testing, Got Rid of QA Engineers, And Survived - Online Meetup",
+        "attendees": 62
+    },
+    {
+        "id": 34,
+        "date": "2020-04-17T13:30:00.000Z",
+        "title": "Self-Management in The Testing Community - Online Meetup",
+        "attendees": 32
+    },
+    {
+        "id": 35,
+        "date": "2020-04-30T08:30:00.000Z",
+        "title": "Level Up the Developer Experience using Tests - Online Meetup",
+        "attendees": 52
+    },
+    {
+        "id": 36,
+        "date": "2020-05-07T12:00:00.000Z",
+        "title": "Arjuna - A Modern Web UI Test Automation Framework - Online Meetup",
+        "attendees": 72
+    },
+    {
+        "id": 37,
+        "date": "2020-05-28T08:00:00.000Z",
+        "title": "Breakfast & Learn: Lightning Talks at the Continuous Testing Meetup Online",
+        "attendees": 40
+    },
+    {
+        "id": 38,
+        "date": "2020-06-04T10:30:00.000Z",
+        "title": "Hunting Bugs with Puppeteer and AWS Lambda - Online Meetup",
+        "attendees": 55
+    },
+    {
+        "id": 39,
+        "date": "2020-06-17T15:00:00.000Z",
+        "title": "PyTest: The Awesome Parts - Online Meetup",
+        "attendees": 71
+    },
+    {
+        "id": 40,
+        "date": "2020-07-01T15:00:00.000Z",
+        "title": "The Female Champions of Rwanda's Rising Tech Scene - Online Meetup",
+        "attendees": 31
+    },
+    {
+        "id": 41,
+        "date": "2020-07-08T13:00:00.000Z",
+        "title": "Modern PERFORMANCE testing principles - Online Meetup",
+        "attendees": 118
+    },
+    {
+        "id": 42,
+        "date": "2020-07-29T14:00:00.000Z",
+        "title": "Setting Your Team Up For Success So Anyone Can Write Tests - Online Meetup",
+        "attendees": 66
+    },
+    {
+        "id": 43,
+        "date": "2020-08-12T15:00:00.000Z",
+        "title": "Continuous Feedback with Github Actions - Online Meetup",
+        "attendees": 61
+    },
+    {
+        "id": 44,
+        "date": "2020-08-20T15:00:00.000Z",
+        "title": "Verifying Relationships: Consumer-Driven Contract Tests and Microservices",
+        "attendees": 74
+    },
+    {
+        "id": 45,
+        "date": "2020-09-03T15:00:00.000Z",
+        "title": "Enhance Mobile User Experience through Performance Testing",
+        "attendees": 86
+    },
+    {
+        "id": 46,
+        "date": "2020-09-17T17:00:00.000Z",
+        "title": "Automated Testing With JavaScript",
+        "attendees": 148
+    },
+    {
+        "id": 47,
+        "date": "2020-10-01T17:00:00.000Z",
+        "title": "No Code Apps - Why and how to?",
+        "attendees": 46
+    },
+    {
+        "id": 48,
+        "date": "2020-10-05T17:00:00.000Z",
+        "title": "Hacktoberfest meets CTM Berlin",
+        "attendees": 25
+    },
+    {
+        "id": 49,
+        "date": "2020-10-22T17:00:00.000Z",
+        "title": "Assuring or Not Assuring quality?",
+        "attendees": 75
+    },
+    {
+        "id": 50,
+        "date": "2020-11-12T18:00:00.000Z",
+        "title": "Mentorships for our QA Engineers & Puppeteer Internals",
+        "attendees": 45
+    },
+    {
+        "id": 51,
+        "date": "2020-12-03T18:00:00.000Z",
+        "title": "Breaking Boundaries Using Charles",
+        "attendees": 59
+    },
+    {
+        "id": 52,
+        "date": "2021-01-14T18:00:00.000Z",
+        "title": "Test process improvement in an agile environment",
+        "attendees": 94
+    },
+    {
+        "id": 53,
+        "date": "2021-01-27T17:00:00.000Z",
+        "title": "Selenium + JUnit 5:  The Perfect Match",
+        "attendees": 117
+    },
+    {
+        "id": 54,
+        "date": "2021-02-23T18:00:00.000Z",
+        "title": "Speeding up your test execution in a fast-paced world",
+        "attendees": 78
+    },
+    {
+        "id": 55,
+        "date": "2021-03-23T17:30:00.000Z",
+        "title": "Beginning Test Automation: Part 1 of 3",
+        "attendees": 25
+    },
+    {
+        "id": 56,
+        "date": "2021-03-30T16:30:00.000Z",
+        "title": "Beginning Test Automation: Part 2 of 3",
+        "attendees": 20
+    },
+    {
+        "id": 57,
+        "date": "2021-04-06T16:30:00.000Z",
+        "title": "Beginning Test Automation: Part 3 of 3",
+        "attendees": 20
+    },
+    {
+        "id": 58,
+        "date": "2021-04-13T17:00:00.000Z",
+        "title": "“It works on my browser!” is the new “It works on my machine!”",
+        "attendees": 59
+    },
+    {
+        "id": 59,
+        "date": "2021-05-05T17:00:00.000Z",
+        "title": "Integration Testing  with Cypress",
+        "attendees": 80
+    },
+    {
+        "id": 60,
+        "date": "2021-05-20T17:00:00.000Z",
+        "title": "Career switch & Open Source",
+        "attendees": 34
+    },
+    {
+        "id": 61,
+        "date": "2021-06-30T17:00:00.000Z",
+        "title": "Ready for Test - a Symptom of a Poor Quality Culture",
+        "attendees": 60
+    },
+    {
+        "id": 62,
+        "date": "2021-07-28T17:00:00.000Z",
+        "title": "Shifting Accessibility Testing to the Left",
+        "attendees": 70
+    },
+    {
+        "id": 63,
+        "date": "2021-08-25T17:00:00.000Z",
+        "title": "Automation in Testing - Simplify Your Daily Testing Business",
+        "attendees": 44
+    },
+    {
+        "id": 64,
+        "date": "2021-09-30T17:00:00.000Z",
+        "title": "Growing A Culture of Quality",
+        "attendees": 65
+    },
+    {
+        "id": 65,
+        "date": "2021-11-16T18:00:00.000Z",
+        "title": "How to Bring Accessibility into Your Teams",
+        "attendees": 25
+    },
+    {
+        "id": 66,
+        "date": "2021-12-02T18:00:00.000Z",
+        "title": "The Screenplay Pattern: Better Interactions for Better Automation",
+        "attendees": 70
+    },
+    {
+        "id": 67,
+        "date": "2022-01-26T18:00:00.000Z",
+        "title": "Building & Testing a Web Application",
+        "attendees": 110
+    },
+    {
+        "id": 68,
+        "date": "2022-02-23T18:00:00.000Z",
+        "title": "The Road to QA",
+        "attendees": 61
+    },
+    {
+        "id": 69,
+        "date": "2022-06-23T17:00:00.000Z",
+        "title": "Autonomous testing: Empower your testing strategies",
+        "attendees": 45
+    },
+    {
+        "id": 70,
+        "date": "2022-07-19T17:00:00.000Z",
+        "title": "Shifting Quality To App-first @ La Redoute",
+        "attendees": 34
+    },
+    {
+        "id": 71,
+        "date": "2022-08-24T17:00:00.000Z",
+        "title": "Clash of the Titans: Cypress vs Playwright",
+        "attendees": 82
+    },
+    {
+        "id": 72,
+        "date": "2022-09-07T17:00:00.000Z",
+        "title": "Testee: real examples and best practice for e2e testing",
+        "attendees": 49
+    },
+    {
+        "id": 73,
+        "date": "2022-10-27T17:00:00.000Z",
+        "title": "How to Log a Bug",
+        "attendees": 68
+    },
+    {
+        "id": 74,
+        "date": "2022-11-17T18:00:00.000Z",
+        "title": "Test in the Cloud for Free - Run Docker Selenium in Heroku and Google Cloud Run",
+        "attendees": 41
+    },
+    {
+        "id": 75,
+        "date": "2022-12-08T18:00:00.000Z",
+        "title": "I ship CSS as soon as the tests pass. (I’m not crazy)",
+        "attendees": 29
+    },
+    {
+        "id": 76,
+        "date": "2023-01-18T18:00:00.000Z",
+        "title": "Selenide: UI tests in java & 10 bad advice on team design to decrease quality",
+        "attendees": 62
+    },
+    {
+        "id": 77,
+        "date": "2023-02-15T18:00:00.000Z",
+        "title": "The long road to remove the flakiness from the Haura Console E2E tests",
+        "attendees": 33
+    },
+    {
+        "id": 78,
+        "date": "2023-03-22T18:00:00.000Z",
+        "title": "Moving Cheese: The Art of Persuasion for Testers",
+        "attendees": 56
+    },
+    {
+        "id": 79,
+        "date": "2023-04-19T17:00:00.000Z",
+        "title": "Do customers define quality?",
+        "attendees": 23
+    },
+    {
+        "id": 80,
+        "date": "2023-04-27T17:00:00.000Z",
+        "title": "Every Engineer is a Quality Engineer - Our Android automation story",
+        "attendees": 74
+    },
+    {
+        "id": 81,
+        "date": "2023-05-24T17:00:00.000Z",
+        "title": "How to test API with Cypress",
+        "attendees": 73
+    },
+    {
+        "id": 82,
+        "date": "2023-06-12T16:00:00.000Z",
+        "title": "How to Test Easier with GoogleChrome DevTools & Sauce Labs",
+        "attendees": 30
+    },
+    {
+        "id": 83,
+        "date": "2023-06-21T17:00:00.000Z",
+        "title": "What the Fuzz? An introduction to Fuzz Testing",
+        "attendees": 48
+    },
+    {
+        "id": 84,
+        "date": "2023-06-28T17:00:00.000Z",
+        "title": "Talk #1: Zero Line Testsuite & Talk #2: e-prescription Testsuite",
+        "attendees": 27
+    }
+]
