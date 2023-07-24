@@ -5,6 +5,9 @@ This repository contains an analysis of meetup participation events.
 ## Description
 The data being analyzed consists of meetup events and weather data for the dates of those events. The `event_data.json` file contains meetup event data, which was manually scraped using the `fetch_events.js` script from the meetup past events page. Weather data for each event date was then fetched individually to complement the event data.
 
+## Published Graph
+https://sevpfl.github.io/ctm_participation/plots/event_analysis_plot.html
+
 ## Getting Started
 
 ### Prerequisites
